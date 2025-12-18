@@ -1,5 +1,5 @@
 // Configuration: Enter your API Key here to avoid typing it in the UI
-const HARDCODED_API_KEY = 'AIzaSyBVDLl-59-WZfs2DzhL21r6mrYBOklo2aQ'; // e.g., 'AIzaSy...'
+const HARDCODED_API_KEY = null; // e.g., 'AIzaSy...'
 
 // App State
 const state = {
